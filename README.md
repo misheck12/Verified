@@ -14,7 +14,7 @@ Verified is the go-to destination for companies looking to hire top talent and j
 
 ## Project Description Document
 
-[Live Demo Link](https://docs.google.com/document/d/1QAm6Ubn8XLGxtWlzg6U0cI-ACYak-Wmg7ADl5K97K0Y/edit?usp=sharing)
+[Project description](https://docs.google.com/document/d/1QAm6Ubn8XLGxtWlzg6U0cI-ACYak-Wmg7ADl5K97K0Y/edit?usp=sharing)
 
 
 ## Getting Started
